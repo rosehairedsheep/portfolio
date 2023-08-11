@@ -3,8 +3,6 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
@@ -21,13 +19,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'github',    link: 'https://github.com/rosehairedsheep'}
+- {icon: 'envelope',  link: 'mailto:mailto:pinkhairedsheep@gmail.com'}
 
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' / 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
 #-------------------------------
 # SEO Section
@@ -35,7 +30,7 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Portfolio of rosehairedsheep.'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
