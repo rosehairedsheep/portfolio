@@ -9,7 +9,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Miscellaneous Animations',   url: 'miscellaneous-animations'}
+- {name: 'Miscellaneous Animations',   url: 'proj-anims'}
 
 #-------------------------------
 # Contact Section
