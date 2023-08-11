@@ -10,3 +10,8 @@ Animations that either don't belong anywhere specific, or don't have a home but 
 {% include image.html image="projects/proj-anims/Prinnie.gif" %}
 {% include image.html image="projects/proj-anims/Starfleet.gif" %}
 {% include image.html image="projects/proj-anims/Jasper.gif" %}
+
+---
+### 'Your Character Here' (Animation Bases)
+{% include image.html image="projects/proj-anims/ImperialFullbody.gif" %}
+{% include image.html image="projects/proj-anims/AberrationBust.gif" %}
