@@ -26,7 +26,7 @@ If you like my work then please consider supporting me with [Ko-fi](https://ko-f
 
 1. [Introduction](#introduction)
    1. [What is Jekyll](#what-is-jekyll)
-   2. [Never Used Jeykll Before?](#never-used-jekyll-before)
+   2. [Never Used Jekyll Before?](#never-used-jekyll-before)
 2. [Installation](#installation)
    1. [GitHub Pages Installation](#github-pages-installation)
    2. [Local Installation](#local-installation)
