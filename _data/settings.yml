@@ -9,14 +9,14 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Miscellaneous Animations',   url: 'proj-anims'}
+- {name: '✨ Animations',   url: 'proj-anims'}
 
 #-------------------------------
 # Contact Section
 
 social:
 - {icon: 'github',    link: 'https://github.com/rosehairedsheep'}
-- {icon: 'envelope',  link: 'mailto:mailto:pinkhairedsheep@gmail.com'}
+- {icon: 'envelope',  link: 'mailto:pinkhairedsheep@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' / 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
