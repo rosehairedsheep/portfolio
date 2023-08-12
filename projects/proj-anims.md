@@ -13,5 +13,4 @@ Animations that either don't belong anywhere specific, or don't have a home but 
 
 ---
 #### 'Your Character Here' (Animation Bases)
-{% include image.html image="projects/proj-anims/ImperialFullbody.gif" %}
-{% include image.html image="projects/proj-anims/AberrationBust.gif" %}
+{% include image.html image="projects/proj-anims/ImperialFullbody.gif" width="300" %} {% include image.html image="projects/proj-anims/AberrationBust.gif" width="300" %}
