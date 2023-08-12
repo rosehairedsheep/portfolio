@@ -58,6 +58,7 @@ Animations that either don't belong anywhere specific, or don't have a home but 
 
 <ul>
 <li>Hand-drawn segmented 1-frame poses</li>
+<li>Animated in Synfig</li>
 </ul>
 
 </td>
