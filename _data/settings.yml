@@ -9,6 +9,7 @@ menu:
 # Projects Section
 
 projects:
+- {name: '🐑 Character Controller',   url: 'proj-hornbill'}
 - {name: '✨ Animations',   url: 'proj-anims'}
 
 #-------------------------------
