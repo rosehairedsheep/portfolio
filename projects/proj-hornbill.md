@@ -7,9 +7,9 @@ An attempt at a smooth character controller with quality-of-life features and ow
 ---
 ##### Features
 
-- adjustable speed and gravity values
-- jump height depending on length of button press
-- buffer jump
-- idle, run, takeoff, airborne and landing animations
+- Adjustable speed and gravity values
+- Jump height depending on length of button press
+- Buffer jump
+- Idle, run, takeoff, airborne and landing animations
 
-{% include youtubePlayer.html id="b81EE21MIYU" width=700 height=420 %}
+{% include youtubePlayer.html id="b81EE21MIYU" width=700 height=394 %}
