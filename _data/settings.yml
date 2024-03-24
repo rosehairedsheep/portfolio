@@ -3,7 +3,6 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
