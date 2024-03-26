@@ -1,18 +1,24 @@
 ---
 layout: post
-title: 'Tower Defence (Alpha)'
+title: 'Nine Steps Down'
 ---
-A work-in-progress roguelike-style tower defence game (with a twist!) currently in Alpha.
+A tower defence game (with a twist!) available on <a href="https://cheatcodetojoy.itch.io/">itch.io</a>. Created in Godot game engine.
 
 ---
 ##### Features
 
+- Nine different and interesting towers
+- Moving towers during gameplay
+- Modifying pathways through the use of arrows
 - Randomly generated pathways
-- Modifying pathways through user-placed arrows
 - Real-time pathfinding
 - Interactive HUD
 - Gameplay increasing in difficulty, obtainable rewards
 - Splash screen, options menu, pause option
-- Gameplay soundtrack
+- Run history
+- Translation into Czech
+- Soundtrack
 
-{% include youtubePlayer.html id="5Q05RJa-huM" width=700 height=394 %}
+<img src="{{ site.github.url }}/assets/img/projects/proj-sunbird/nsd4.png" width=700px>
+<img src="{{ site.github.url }}/assets/img/projects/proj-sunbird/nsd2.png" width=700px>
+<img src="{{ site.github.url }}/assets/img/projects/proj-sunbird/nsd3.png" width=700px>
