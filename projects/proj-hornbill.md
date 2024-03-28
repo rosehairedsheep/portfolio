@@ -12,4 +12,6 @@ An attempt at a smooth character controller with quality-of-life features and ow
 - Buffer jump
 - Idle, run, takeoff, airborne and landing animations
 
+<div align="center">
 {% include youtubePlayer.html id="b81EE21MIYU" width=700 height=394 %}
+</div>

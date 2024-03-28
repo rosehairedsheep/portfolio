@@ -8,10 +8,10 @@ menu:
 # Projects Section
 
 projects:
-- {name: '😈 Nine Steps Down',   url: 'proj-sunbird'}
-- {name: '🐝 Polyomino Game',   url: 'proj-limpkin'}
-- {name: '🐑 Character Controller',   url: 'proj-hornbill'}
-- {name: '✨ Animations',   url: 'proj-anims'}
+- {name: '😈 Nine Steps Down',   url: 'proj-sunbird',   role: 'Creator',   tag: 'Godot'}
+- {name: '🐝 Polyomino Game',   url: 'proj-limpkin',   role: 'Creator',   tag: 'Godot'}
+- {name: '🐑 Character Controller',   url: 'proj-hornbill',   role: 'Creator',   tag: 'Unity'}
+- {name: '✨ Animations',   url: 'proj-anims',   role: 'Creator',   tag: ''}
 
 #-------------------------------
 # Contact Section

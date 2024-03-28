@@ -4,7 +4,21 @@
       <a href="{{ site.github.url }}/projects/{{ project.url }}">
         <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}"style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.png)">
           <div class="project-overlay">
-            <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+            <div class="quip">
+              <div style="margin-top: 40px">
+                <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+                <br>
+                <i>{{ project.role }}</i>
+              </div>
+            </div>
+            <div class="tag">
+              {% if project.tag == "Unity" %}
+              <img src="{{ site.github.url }}/assets/img/tags/unity.png">
+              {% endif %}
+              {% if project.tag == "Godot" %}
+              <img src="{{ site.github.url }}/assets/img/tags/godot.png">
+              {% endif %}
+            </div>
           </div>
         </div>
       </a>

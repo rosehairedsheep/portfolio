@@ -4,4 +4,13 @@
       <img src="{{ site.github.url }}/assets/img/title.png" style="max-height:50px;max-width:100%;height:auto;width:auto;">
     </a>
   </div>
+  <br>
+  <div class="social-media">
+    <nav>
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+      {% endfor %}
+    </nav>
+  </div>
+  <br>
 </header>
