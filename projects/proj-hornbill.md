@@ -13,5 +13,5 @@ An attempt at a smooth character controller with quality-of-life features and ow
 - Idle, run, takeoff, airborne and landing animations
 
 <div align="center">
-{% include youtubePlayer.html id="b81EE21MIYU" width=700 height=394 %}
+{% include youtubePlayer.html id="b81EE21MIYU" %}
 </div>

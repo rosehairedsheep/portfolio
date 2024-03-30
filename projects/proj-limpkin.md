@@ -13,5 +13,5 @@ Learning the ropes of the Godot game engine with a polyomino-slotting prototype.
 - Main menu screen
 
 <div align="center">
-{% include youtubePlayer.html id="w3CDphwPsxM" width=700 height=394 %}
+{% include youtubePlayer.html id="w3CDphwPsxM" %}
 </div>
