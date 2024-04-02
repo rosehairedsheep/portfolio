@@ -7,66 +7,34 @@ Animations that either don't belong anywhere specific, or don't have a home but 
 ---
 ##### Codename Danube (2D Fighting Game)
 
-<table width="100%">
-<tr>
-<th width="50%">
-</th>
-<th width="50%">
-</th>
-</tr>
-<tr>
-<td valign="top">
+<div class="social-media">
+    <i class="fa fa-github" aria-hidden="true"></i> Private Repository
+</div>
+<b>Procreate | Unity</b>
 
 <ul>
 <li>Hand-drawn segmented 3-frame poses</li>
-<li>Animated in Unity</li>
 </ul>
 
-</td>
-<td align="center">
-
-{% include image.html image="projects/proj-anims/Prinnie.gif" %}
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-{% include image.html image="projects/proj-anims/Starfleet.gif" %}
-
-</td>
-<td align="center">
-
-{% include image.html image="projects/proj-anims/Jasper.gif" %}
-
-</td>
-</tr>
-</table>
+<div style="display:flex;align-items:center;justify-content:space-around;flex-wrap:wrap">
+<img src="{{ site.github.url }}/assets/img/projects/proj-anims/Prinnie.gif" width="30%">
+<img src="{{ site.github.url }}/assets/img/projects/proj-anims/Starfleet.gif" width="30%">
+<img src="{{ site.github.url }}/assets/img/projects/proj-anims/Jasper.gif" width="30%">
+</div>
 
 ---
 ##### 'Your Character Here' (Animation Bases)
 
-<table width="100%">
-<tr>
-<th width="50%">
-</th>
-<th width="50%">
-</th>
-</tr>
-<tr>
-<td valign="top">
+<div class="social-media">
+    <i class="fa fa-github" aria-hidden="true"></i> No Repository
+</div>
+<b>Procreate | Synfig</b>
 
 <ul>
 <li>Hand-drawn segmented 1-frame poses</li>
-<li>Animated in Synfig</li>
 </ul>
 
-</td>
-<td align="center">
-
-{% include image.html image="projects/proj-anims/ImperialFullbody.gif" width="300" %}
-{% include image.html image="projects/proj-anims/AberrationBust.gif" width="300" %}
-
-</td>
-</tr>
-</table>
+<div style="display:flex;align-items:center;justify-content:space-around;flex-wrap:wrap">
+<img src="{{ site.github.url }}/assets/img/projects/proj-anims/ImperialFullbody.gif" width="40%">
+<img src="{{ site.github.url }}/assets/img/projects/proj-anims/AberrationBust.gif" width="40%">
+</div>

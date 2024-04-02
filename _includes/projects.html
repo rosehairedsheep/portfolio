@@ -2,13 +2,25 @@
   <div class="project-container">
     {% for project in site.data.settings.projects %}
       <a href="{{ site.github.url }}/projects/{{ project.url }}">
-        <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}"style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.png)">
+        {% if project.size == "Large" %}
+        <div class="project-unit-large" data-folder="{{ site.github.url }}/projects/{{ project.url }}"style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.png)">
+        {% endif %}
+        {% if project.size == "Small" %}
+        <div class="project-unit-small" data-folder="{{ site.github.url }}/projects/{{ project.url }}"style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.png)">
+        {% endif %}
           <div class="project-overlay">
             <div class="quip">
-              <div style="margin-top: 40px">
+              {% if project.size == "Large" %}
+              <div style="margin-top: 7%">
+              {% endif %}
+              {% if project.size == "Small" %}
+              <div style="margin-top: 5%">
+              {% endif %}
                 <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+                {% if project.role != "" %}
                 <br>
                 <i>{{ project.role }}</i>
+                {% endif %}
               </div>
             </div>
             <div class="tag">

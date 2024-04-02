@@ -2,6 +2,12 @@
 layout: post
 title: 'Unity Character Controller'
 ---
+<div class="social-media">
+    <a href="https://github.com/rosehairedsheep/Hornbill" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Public Repository</a>
+</div>
+
+<b>Unity: C# | Procreate</b>
+
 An attempt at a smooth character controller with quality-of-life features and own animation controller.
 
 ---
