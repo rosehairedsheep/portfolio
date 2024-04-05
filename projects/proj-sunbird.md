@@ -15,6 +15,11 @@ A tower defence game (with a twist!) available on <a href="https://cheatcodetojo
 </div>
 
 ---
+##### Coverage
+
+- <a href="https://suomigamehub.com/uutiset/aktiivinen-strategiointi-ja-tornien-siirtely-keskiossa-uudessa-nine-steps-down-pelissa/">(Finnish) Article by SuomiGameHUB.</a>
+
+---
 ##### Features
 
 - Nine different and interesting towers
