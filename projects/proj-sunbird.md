@@ -5,7 +5,7 @@ title: 'Nine Steps Down'
 <div class="social-media">
     <i class="fa fa-github" aria-hidden="true"></i> Private Repository
 </div>
-<b>Godot: GDScript | Procreate | FL Studio</b>
+<b>Godot 4.1: GDScript | Procreate | FL Studio</b>
 
 
 A tower defence game (with a twist!) available on <a href="https://cheatcodetojoy.itch.io/">itch.io</a>.

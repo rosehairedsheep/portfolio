@@ -5,7 +5,7 @@ title: 'Godot Polyomino Game'
 <div class="social-media">
     <a href="https://github.com/rosehairedsheep/Limpkin" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Public Repository</a>
 </div>
-<b>Godot: GDScript | Krita</b>
+<b>Godot 4.1: GDScript | Krita</b>
 
 Learning the ropes of the Godot game engine with a polyomino-slotting prototype.
 

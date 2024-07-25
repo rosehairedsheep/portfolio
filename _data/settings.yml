@@ -8,8 +8,10 @@ menu:
 # Projects Section
 
 projects:
-- {name: '🔧 Minecraft Pixel Art',   url: 'proj-mcmods',   role: '',   tag: '',   size: 'Small'}
 - {name: '😈 Nine Steps Down',   url: 'proj-sunbird',   role: 'Creator',   tag: 'Godot',   size: 'Large'}
+- {name: '🐦 Magpie Game',   url: 'proj-magpie',   role: 'UI & Art Lead, Programming Co-lead',   tag: 'Godot',   size: 'Small'}
+- {name: '💥 FFXIV Pixel Art',   url: 'proj-ffxiv',   role: '',   tag: '',   size: 'Small'}
+- {name: '🔧 Minecraft Pixel Art',   url: 'proj-mcmods',   role: '',   tag: '',   size: 'Small'}
 - {name: '🐝 Polyomino Game',   url: 'proj-limpkin',   role: '',   tag: 'Godot',   size: 'Small'}
 - {name: '🐑 Character Controller',   url: 'proj-hornbill',   role: '',   tag: 'Unity',   size: 'Small'}
 - {name: '✨ Animations',   url: 'proj-anims',   role: '',   tag: '',   size: 'Small'}
