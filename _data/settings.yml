@@ -8,12 +8,14 @@ menu:
 # Projects Section
 
 projects:
+- {name: '💎 Flight of Fancy [ALPHA]',   url: 'proj-nightjar',   role: 'Creator',   tag: 'Godot',   size: 'Large'}
 - {name: '😈 Nine Steps Down',   url: 'proj-sunbird',   role: 'Creator',   tag: 'Godot',   size: 'Large'}
+- {name: '😺 Cät',   url: 'proj-cat',   role: 'UI & Animation & Music & Level Design Lead, Programming',   tag: 'Unity',   size: 'Large'}
+- {name: '🐍 Window Jumper',   url: 'proj-kingfisher',   role: '',   tag: 'Godot',   size: 'Small'}
 - {name: '🐦 Magpie Game',   url: 'proj-magpie',   role: 'UI & Art Lead, Programming Co-lead',   tag: 'Godot',   size: 'Small'}
-- {name: '💥 FFXIV Pixel Art',   url: 'proj-ffxiv',   role: '',   tag: '',   size: 'Small'}
-- {name: '🔧 Minecraft Pixel Art',   url: 'proj-mcmods',   role: '',   tag: '',   size: 'Small'}
 - {name: '🐝 Polyomino Game',   url: 'proj-limpkin',   role: '',   tag: 'Godot',   size: 'Small'}
 - {name: '🐑 Character Controller',   url: 'proj-hornbill',   role: '',   tag: 'Unity',   size: 'Small'}
+- {name: '📺 Pixel Art',   url: 'proj-pixels',   role: '',   tag: '',   size: 'Small'}
 - {name: '✨ Animations',   url: 'proj-anims',   role: '',   tag: '',   size: 'Small'}
 
 #-------------------------------
