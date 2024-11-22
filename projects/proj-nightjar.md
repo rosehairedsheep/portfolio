@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Flight of Fancy'
+title: 'Flight Of Fancy'
 ---
 <div class="social-media">
     <i class="fa fa-github" aria-hidden="true"></i> Private Repository

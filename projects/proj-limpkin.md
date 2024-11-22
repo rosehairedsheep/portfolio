@@ -3,7 +3,7 @@ layout: post
 title: 'Godot Polyomino Game'
 ---
 <div class="social-media">
-    <a href="https://github.com/rosehairedsheep/Limpkin" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Public Repository</a>
+    <a href="https://github.com/CheatcodeToJoy/Limpkin" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Public Repository</a>
 </div>
 <b>Godot 4.1: GDScript | Krita</b>
 
