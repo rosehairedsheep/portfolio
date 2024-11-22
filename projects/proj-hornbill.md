@@ -3,7 +3,7 @@ layout: post
 title: 'Unity Character Controller'
 ---
 <div class="social-media">
-    <a href="https://github.com/CheatcodeToJoy/Hornbill" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Public Repository</a>
+    <a href="https://github.com/Cheatcode-to-Joy/Hornbill" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Public Repository</a>
 </div>
 
 <b>Unity: C# | Procreate</b>
