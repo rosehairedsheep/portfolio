@@ -8,9 +8,10 @@ menu:
 # Projects Section
 
 projects:
+- {name: '💫 Magebound',   url: 'proj-magebound',   role: 'VFX & Music Lead',   tag: 'Unity',   size: 'Large'}
 - {name: '💎 Flight Of Fancy',   url: 'proj-nightjar',   role: 'Creator',   tag: 'Godot',   size: 'Large'}
-- {name: '😈 Nine Steps Down',   url: 'proj-sunbird',   role: 'Creator',   tag: 'Godot',   size: 'Large'}
 - {name: '😺 Cät',   url: 'proj-cat',   role: 'UI & Animation & Music & Level Design Lead, Programming',   tag: 'Unity',   size: 'Large'}
+- {name: '😈 Nine Steps Down',   url: 'proj-sunbird',   role: 'Creator',   tag: 'Godot',   size: 'Large'}
 - {name: '🐍 Window Jumper',   url: 'proj-kingfisher',   role: '',   tag: 'Godot',   size: 'Small'}
 - {name: '🐦 Magpie Game',   url: 'proj-magpie',   role: 'UI & Art Lead, Programming Co-lead',   tag: 'Godot',   size: 'Small'}
 - {name: '🐝 Polyomino Game',   url: 'proj-limpkin',   role: '',   tag: 'Godot',   size: 'Small'}
